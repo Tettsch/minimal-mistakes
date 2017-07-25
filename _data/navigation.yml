@@ -1,8 +1,6 @@
 # main links
 main:
   - title: "Blog"
-  - title: "Posts"
-    url: /test/_posts"
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
