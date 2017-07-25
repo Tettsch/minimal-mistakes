@@ -80,7 +80,7 @@ author:
   name             : "Torben Volkmann"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an amazing person."
-  location         : "Lübeck"
+  location         : "Luebeck"
   email            :
   uri              :
   bitbucket        :
@@ -101,7 +101,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          : @tettsch
+  twitter          : tettsch
   vine             :
   weibo            :
   xing             :
